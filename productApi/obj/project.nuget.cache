@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yh2wr4HBl2J1yhMeNzR6a1MuSlQukdlyQTsP8IYyVVAMnyd5ueoElTTcio2X4io9jzc+Wq/qMoJ5k/D4uxAb3g==",
+  "success": true,
+  "projectFilePath": "/Users/melikegursoy/Desktop/JMicroService/productApi/productApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/melikegursoy/.nuget/packages/microsoft.aspnetcore.openapi/7.0.10/microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
+    "/Users/melikegursoy/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/melikegursoy/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/melikegursoy/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/melikegursoy/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/melikegursoy/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/melikegursoy/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{310586B4-0AC1-46AD-B8DD-5467E92AE2F0}|http">
+  <MonoDevelop.Ide.ItemProperties.customerApi PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.orderApi PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="orderApi/Program.cs">
+    <Files>
+      <File FileName="orderApi/Context/orderDbContext.cs" Line="11" Column="43" />
+      <File FileName="orderApi/Program.cs" Line="47" Column="1" />
+      <File FileName="orderApi/Controllers/orderController.cs" Line="48" Column="1" />
+      <File FileName="orderApi/Services/OrderService.cs" Line="80" Column="3" />
+      <File FileName="orderApi/Models/Order.cs" />
+      <File FileName="orderApi/Models/Shared/EntityBase.cs" />
+      <File FileName="orderApi/Startup.cs" Line="14" Column="1" />
+      <File FileName="orderApi/appsettings.json" Line="14" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JMicroService" expanded="True">
+            <Node name="customerApi" expanded="True">
+              <Node name="Models" expanded="True" />
+            </Node>
+            <Node name="orderApi" expanded="True">
+              <Node name="Context" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Helpers" expanded="True" />
+              <Node name="Interfaces" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

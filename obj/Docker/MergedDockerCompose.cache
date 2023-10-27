@@ -1,0 +1,18 @@
+name: dockercompose2785099426321197137
+services:
+  orderapi:
+    build:
+      context: /Users/melikegursoy/Desktop/JMicroService
+      dockerfile: orderApi/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: orderapi
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 80
+        protocol: tcp
+networks:
+  default:
+    name: dockercompose2785099426321197137_default
